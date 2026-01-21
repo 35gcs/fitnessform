@@ -36,6 +36,18 @@ FitnessForm is an intelligent video analysis tool that helps weightlifters impro
 - **Vite**: Fast build tool and dev server
 - **Axios**: HTTP client for API requests
 
+## Quick Start
+
+**The fastest way to get started:**
+
+```bash
+./start.sh
+```
+
+Then open http://localhost:3000 in your browser!
+
+See [QUICKSTART.md](QUICKSTART.md) for details.
+
 ## Installation
 
 ### Prerequisites
